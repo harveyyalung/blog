@@ -1,4 +1,4 @@
-# Social Network
+# Social Flow
 
 This is a Social Flow, a social networking site that allows people make it easy for you to connect and share with family and friends online.
 
