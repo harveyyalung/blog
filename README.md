@@ -9,3 +9,9 @@ To set the program up, run
     pip install -r requirements.txt
     python setup.py
 ```
+## Running The App
+
+```bash
+python main.py
+```
+
