@@ -7,7 +7,7 @@ body{
 }
 header,footer{
     position: absolute;
-    background-color: #000;
+    background-color:green;
     width: 100%;
     color: white;
 }
