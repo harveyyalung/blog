@@ -103,8 +103,9 @@ def signup():
 @app.route('/logout')
 @login_required
 def logout():
+    logout_user()
+    return redirect(url_for('index'))
     
-
 @app.route('/base')
 def base():
     return render_template('base.html')
