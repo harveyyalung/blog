@@ -1,3 +1,1 @@
-# Flask Web App
-
-## Simple Social Network App
+# Social Application
