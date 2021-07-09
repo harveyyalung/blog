@@ -1,0 +1,28 @@
+body{
+    font-family: verdana;
+    background-color: rgb(22, 177, 22);
+}*{
+    margin: 0;
+    padding: 0;
+}
+header,footer{
+    position: absolute;
+    background-color:green;
+    width: 100%;
+    color: white;
+}
+header h2{
+    position: absolute;
+}
+header{
+    height: 10vh;
+    margin-top: 20px;
+}
+footer{
+    height: 15vh;
+    bottom: 0;
+}
+footer h2{
+    position: absolute;
+    left: 45%;
+}
